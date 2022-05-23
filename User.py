@@ -1,9 +1,4 @@
-class Tarefa:
-    def __init__(self, titulo, descricao):
-        self.titulo = titulo
-        self.descricao = descricao
-
-
+# User "Model"
 class User:
     def __init__(self, name, passwd):
         self.name = name,
