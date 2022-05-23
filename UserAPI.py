@@ -1,3 +1,5 @@
+# An user api with some kind of cli 
+
 from time import sleep
 import requests
 from requests import Session
